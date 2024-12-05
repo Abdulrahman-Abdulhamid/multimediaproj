@@ -24,6 +24,7 @@ function App() {
                 <Hero />
                 <div className="container mx-auto px-4 py-8">
                   <AIDetection />
+
                   <TeachingStrategies />
                   <FutureImplications />
                 </div>
