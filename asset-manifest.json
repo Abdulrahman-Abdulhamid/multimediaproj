@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abdulrahman-Abdulhamid/multimediaproj.git/static/css/main.b7ce3e14.css",
+    "main.js": "/Abdulrahman-Abdulhamid/multimediaproj.git/static/js/main.a5f4cf74.js",
+    "index.html": "/Abdulrahman-Abdulhamid/multimediaproj.git/index.html",
+    "main.b7ce3e14.css.map": "/Abdulrahman-Abdulhamid/multimediaproj.git/static/css/main.b7ce3e14.css.map",
+    "main.a5f4cf74.js.map": "/Abdulrahman-Abdulhamid/multimediaproj.git/static/js/main.a5f4cf74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ce3e14.css",
+    "static/js/main.a5f4cf74.js"
+  ]
+}
